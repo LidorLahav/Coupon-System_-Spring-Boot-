@@ -20,18 +20,17 @@ In this project the system will be rebuilt based on Spring and Hibernate technol
 
 ## Execution stages
 
-  Part 1 - Transforming the DAO components into Entity Beans equivalent to Java Beans from the previous project.
+ * Part 1 - Transforming the DAO components into Entity Beans equivalent to Java Beans from the previous project.
   
-  Part 2 - Create Spring Repositories with custom queries.
+ * Part 2 - Create Spring Repositories with custom queries.
   
-  Part 3 - Transforming the Facades classes from the previous project into Spring Services.
+ * Part 3 - Transforming the Facades classes from the previous project into Spring Services.
   
-  Part 4 - Turning the CouponExpirationDailyJob and the LoginManager classes into Singletons.
+ * Part 4 - Turning the CouponExpirationDailyJob and the LoginManager classes into Singletons.
   
-  Part 5 - Building the testing classes to demonstrate the system's capabilities, and operating it from the main.
+ * Part 5 - Building the testing classes to demonstrate the system's capabilities, and operating it from the main.
 
 
 ## Database
 
-
-![Database structure](https://github.com/LidorLahav/Coupon-System/blob/master/Images/Database-structure.jpeg?raw=true)
+![Database structure](https://github.com/LidorLahav/Coupon-System_Spring-Boot/blob/master/Images/Database%20structure.jpeg)
