@@ -7,6 +7,8 @@ import app.core.entities.Customer;
 public interface CustomerRepository extends JpaRepository<Customer, Integer> {
 
 	boolean existsByEmail(String email);
+
 	Customer findFirstById(int id);
-	Customer findFirstByEmail(String email);
+
+    Customer findFirstByEmail(String email);
 }

@@ -11,10 +11,10 @@ import app.core.tests.Test;
 @SpringBootApplication
 @EnableAspectJAutoProxy
 @EnableTransactionManagement
-public class SpringJpaDataLesson71Application {
+public class CouponSystemApplication {
 
 	public static void main(String[] args) {
-		ConfigurableApplicationContext ctx = SpringApplication.run(SpringJpaDataLesson71Application.class, args);
+		ConfigurableApplicationContext ctx = SpringApplication.run(CouponSystemApplication.class, args);
 		Test test = ctx.getBean(Test.class);
 		test.testAll();
 	}

@@ -41,7 +41,7 @@ public class Coupon {
 	private List<Customer> customers;
 	
 	public enum Category {
-		Food, Electricity, Restaurant, Vacation, Sport, Furnitures, Clothing, Attractions;
+		Food, Electricity, Restaurant, Vacation, Sport, Furniture, Clothing, Attractions;
 	}
 	
 	public Coupon() {
