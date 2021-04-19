@@ -33,5 +33,4 @@ In this project the system will be rebuilt based on Spring and Hibernate technol
 
 ## Database
 
-
-![Database structure](https://github.com/LidorLahav/Coupon-System/blob/master/Images/Database-structure.jpeg?raw=true)
+![Database structure](https://github.com/LidorLahav/Coupon-System_Spring-Boot/blob/master/Images/Database%20structure.jpeg)
